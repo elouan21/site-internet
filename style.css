@@ -460,6 +460,9 @@ img {
   transition-duration: 500ms;
   background-color: transparent;
   padding: 15px 30px; }
+  .header-area img {
+  position: absolute
+  }
   .header-area .logo-area a {
     color: #ffffff;
     font-size: 36px;
